@@ -1,4 +1,4 @@
-# Credit Risk Modeling
+# Credit Risk Modeling (credit-risk-ai)
 
 An AI-powered credit risk modeling system for estimating loan default risk,
 with a Streamlit dashboard and explainability features.
