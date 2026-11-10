@@ -1,0 +1,7 @@
+Credit-risk business trade-off report
+=====================================
+
+Not generated: no genuine LendingClub dataset has been trained and evaluated.
+Relative false-negative and false-positive costs are assumptions, not realized
+financial losses. Generate this report from the Model evaluation dashboard
+after a completed training run.

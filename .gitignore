@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+.Python
+.venv/
+venv/
+env/
+
+# Tooling
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Generated datasets and model artifacts
+dataset/*
+!dataset/.gitkeep
+models/*
+!models/.gitkeep
+!models/model_metadata.json
+!models/feature_names.json
+reports/*
+!reports/.gitkeep
+!reports/model_comparison.csv
+!reports/training_report.txt
+!reports/class_distribution.csv
+!reports/descriptive_statistics.csv
+!reports/correlation_matrix.csv
+!reports/eda_insights.txt
+!reports/default_rate_analysis.csv
+!reports/detailed_evaluation.csv
+!reports/threshold_comparison.csv
+!reports/calibration_report.csv
+!reports/business_risk_report.txt
+!reports/roc_curves.csv
+!reports/precision_recall_curves.csv
+!reports/visualizations/
+!reports/visualizations/**
+reports/explainability/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/

@@ -1,0 +1,5 @@
+No cleaned LendingClub dataset is available; no EDA statistics or findings have been generated.
+
+Process a genuine dataset on the Dataset preparation page to generate this
+report. Any EDA insights will describe associations in the observed data, not
+causal effects or model predictions.

@@ -1,0 +1,13 @@
+# Python 3.11-3.14
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+shap
+lime
+streamlit>=1.57
+plotly
+joblib
+pytest

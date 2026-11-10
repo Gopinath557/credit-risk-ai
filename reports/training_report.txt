@@ -1,0 +1,5 @@
+No model training has been run.
+
+A genuine Phase 2 processed LendingClub dataset is required to produce model
+comparisons, class distributions, holdout metrics, or saved model artifacts.
+No training results or performance values are fabricated.
